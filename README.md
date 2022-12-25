@@ -12,3 +12,12 @@
 ・削除機能
 
 #使用環境（実行環境）
+PHP Laravel 8.83.27
+
+#テーブル設計
+
+![image](https://user-images.githubusercontent.com/114378472/209455384-b7f54d5e-8503-455a-aefb-e6600ff5df0c.png)
+
+#ER図
+
+![image](https://user-images.githubusercontent.com/114378472/209455436-56e70dce-07db-46d4-a63b-8c6ba4d9b56b.png)
