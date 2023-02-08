@@ -21,4 +21,4 @@ PHP Laravel 8.83.27
 
 #ER図
 
-<img src = "https://user-images.githubusercontent.com/114378472/209455436-56e70dce-07db-46d4-a63b-8c6ba4d9b56b.png" width = "360px">
+<img src = "https://user-images.githubusercontent.com/114378472/209455436-56e70dce-07db-46d4-a63b-8c6ba4d9b56b.png" width = "240px">
